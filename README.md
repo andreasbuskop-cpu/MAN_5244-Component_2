@@ -1,5 +1,3 @@
-l planning information
-
 ### 6. Issue Reporting & Impact Analysis
 
 **Reporting System:**
